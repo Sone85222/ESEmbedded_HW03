@@ -48,9 +48,10 @@ This is the hw03 sample. Please follow the steps below.
 [ESEmbedded_HW02_Example]: https://github.com/vwxyzjimmy/ESEmbedded_HW02_Example
 
 --------------------
-
-- [x] **If you volunteer to give the presentation next week, check this.**
-
 --------------------
 
 **★★★ Please take your note here ★★★**
+先新增main.c內的命令程式後
+再接由hw2的qemu方法觀察暫存器變化
+由http://upload.cc/i1/2019/03/19/BjJaPU.png
+可看出在main.c內的變數存在於r3暫存器中

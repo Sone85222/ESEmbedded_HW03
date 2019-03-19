@@ -1,5 +1,8 @@
-void reset_handler(void)
+
+void main (void)
 {
-	while (1)
-		;
+	int a = 0x4444;
+	int b = 0x1234;
+	int c = a+b;
+	while (1);
 }
